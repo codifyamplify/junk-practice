@@ -1,0 +1,34 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "name": "The Lord of the Rings",
+            "genre": "fantasy"
+        },
+        {
+            "id": 2,
+            "name": "The Matrix",
+            "genre": "sci-fi"
+        },
+        {
+            "id": 3,
+            "name": "Hereditary",
+            "genre": "horror"
+        },
+        {
+            "id": 4,
+            "name": "Midsommar",
+            "genre": "horror"
+        },
+        {
+            "id": 5,
+            "name": "The Exorcist",
+            "genre": "horror"
+        },
+        {
+            "id": 6,
+            "name": "Legally Blonde",
+            "genre": "comedy"
+        }
+    ]
+}
