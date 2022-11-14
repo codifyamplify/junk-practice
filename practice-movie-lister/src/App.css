@@ -13,6 +13,20 @@
   }
 }
 
+.smallComponent {
+  background-color:aliceblue;
+  border: 1px solid;
+  border-color: blue;
+  padding: 10px;
+}
+
+.component {
+  background-color: antiquewhite;
+  border: 2px solid;
+  border-color: blue;
+  padding: 10px;
+}
+
 .starter {
   background-color: #282c34;
   min-height: 100vh;

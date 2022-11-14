@@ -1,1 +1,20 @@
 basic movie lister using a db.json as a server
+
+installed / used:
+- npm init react-app my-app (i used practice-movie-lister)
+- json server
+- npm install react-router-dom
+
+COMPONENT HIERARCHY TREE
+app (initial fetch data GET request (useEffect))
+>>header (visual component only) <check!>
+
+>>random movie suggestion component (set interval) <check!>
+
+>>create movie item component (POST request) (submit form) <check!>
+
+>>movie list component (map) <check!>
+>>>filter component (drop down filter) (filter by genre) <check!>
+>>>search movie component (search for name, filter by name) <check!>
+>>>movie card component (to build each movie card on the DOM) <check!>
+
